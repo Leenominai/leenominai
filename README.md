@@ -25,6 +25,6 @@ Python, Django, Docker, PostgreSQL, NGINX, Postman, GitHub Actions, Git, pre-com
 <br>Проект разработан на Python с использованием Django и SQLite.
 - [homework_bot](https://github.com/Leenominai/homework_bot) - это проект Чат-бота в Telegram для управления домашними заданиями. Бот предоставляет возможность пользователям добавлять, просматривать и удалять домашние задания, а также получать уведомления о предстоящих сроках выполнения заданий. Проект разработан на Python с использованием библиотеки Telegram Bot API для взаимодействия с мессенджером Telegram.
 
-## Контакты
+### Контакты
 
 Вы можете связаться со мной через Telegram: [@leenominai](https://t.me/leenominai) или связаться со мной на [LinkedIn](https://www.linkedin.com/in/leenominai).
