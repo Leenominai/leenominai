@@ -20,6 +20,7 @@ Python, Django, Docker, PostgreSQL, NGINX, Postman, GitHub Actions, Git, pre-com
 - [Yamdb API](https://github.com/Leenominai/yamdb_final) - An API for storing reviews on various works, such as movies, books, and music. It allows users to add reviews, rate works, and view information about them. 
 <br>The project utilizes a similar tech stack as foodgram, and testing is done with Postman.
 - [Yatube](https://github.com/Leenominai/hw05_final) - A Social Network project that allows users to view interesting content written by various authors, become authors themselves, follow other users for updates on their content, and join communities of interest. The project is developed in Python using Django and SQLite.
+- [homework_bot](https://github.com/Leenominai/homework_bot) - This is a Telegram Chatbot project for managing homework tasks. The bot allows users to add, view, and delete homework assignments, as well as receive notifications about upcoming deadlines. The project is developed in Python using the Telegram Bot API library for interaction with the Telegram messenger.
 
 ## Contacts
 
