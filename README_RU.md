@@ -1,10 +1,10 @@
-## Профиль Разработчика
+# Мой Профиль Разработчика
 
-[![Английская версия](./README.md)](./README.md) | [![Русская версия](./README_RU.md)](./README_RU.md)
+[![English version](https://img.shields.io/badge/English-Read%20Now-blue)](./README.md) | [![Русская версия](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D1%8C-brightgreen)](./README.md)
 
 ## Обо мне
 
-Привет! Меня зовут [Ваше имя], и я увлеченный разработчик программного обеспечения с опытом работы в Python, Django, Docker, Postman, Git и GitHub Actions. Я люблю создавать веб-приложения и исследовать новые технологии.
+Привет! Я [Ваше Имя], начинающий разработчик с большим интересом к Python, Django, Docker, Postman, Git и GitHub Actions. Мое путешествие в мир разработки только начинается, и я стремлюсь учиться и развиваться в области Backend разработки и DevOps. Мне нравится создавать элегантные и эффективные решения.
 
 ## Навыки
 
@@ -22,4 +22,4 @@
 
 ## Контакты
 
-Вы можете связаться со мной по электронной почте [your.email@example.com](mailto:your.email@example.com) или связаться со мной на [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Вы можете связаться со мной через Telegram: [@leenominai](https://t.me/leenominai) или связаться со мной на [LinkedIn](https://www.linkedin.com/in/leenominai).
