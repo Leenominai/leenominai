@@ -1,8 +1,6 @@
-# My Developer Profile
+# About Me
 
 [![English version](https://img.shields.io/badge/English-Read%20Now-blue)](./README_ENG.md) | [![Russian version](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D1%8C-brightgreen)](./README.md)
-
-## About Me
 
 Hello! My name is Alexander, and I'm an aspiring developer with a keen interest in Python, Django, Docker, and PostgreSQL. My journey into the world of development began at Yandex.Practicum, where I successfully completed a Python developer training program. Currently, I actively participate in collaborative pet projects, aiming to gain experience and grow in the fields of Backend development and DevOps. I particularly enjoy creating elegant and efficient solutions.
 
