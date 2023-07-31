@@ -4,24 +4,21 @@
 
 ## About Me
 
-Hi there! I'm Aleksandr, an aspiring software developer with a keen interest in Python, Django, Docker, PostgreSQL and GitHub Actions. My journey as a developer has just begun, and I'm eager to learn and grow in the fields of Backend development and DevOps. I'm passionate about building elegant and efficient solutions.
+Hello! My name is Alexander. I'm an aspiring developer with a keen interest in Python, Django, Docker, PostgreSQL, and GitHub Actions. My journey into the world of development has just begun, and I strive to learn and grow in the fields of Backend development and DevOps. I enjoy creating elegant and efficient solutions.
+
+I'm currently looking for job opportunities and open to new exciting projects!
 
 ## Skills
 
-- Python
-- Django
-- Docker
-- PostgreSQL
-- Postman
-- Git
-- GitHub Actions
-- pre-commit
+Python, Django, Docker, PostgreSQL, Postman, Git, GitHub Actions, pre-commit
 
 ## Projects
 
-- [Project 1](https://github.com/your-username/project1) - Short project description.
-- [Project 2](https://github.com/your-username/project2) - Short project description.
+- [team-platform](https://github.com/international-team-management/team-platform) - An application for managing teams and projects, developed using Python, Django, and Docker. It includes features for creating and managing tasks, collaboration, and time management.
+- [foodgram](https://github.com/Leenominai/foodgram-project-react) - An online platform for publishing and exchanging recipes. It is developed using Python, Django, and PostgreSQL. Users can create accounts, add recipes, bookmark favorite recipes, and create shopping lists for recipes.
+- [Yatube](https://github.com/Leenominai/hw05_final) - A Social Network project that allows users to view interesting content written by various authors, become an author themselves, and follow other users for updates on their content. Users can also join communities based on their interests.
+- [Yatube API](https://github.com/Leenominai/api_final_yatube) - API for the Yatube project.
 
-## Contact
+## Contacts
 
-You can reach out to me via Telegram at [@leenominai](https://t.me/leenominai) or connect with me on [LinkedIn](https://www.linkedin.com/in/leenominai).
+You can reach out to me via Telegram: [@leenominai](https://t.me/leenominai) or connect with me on [LinkedIn](https://www.linkedin.com/in/leenominai).
