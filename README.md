@@ -1,6 +1,6 @@
 # My Developer Profile
 
-[![English version](https://img.shields.io/badge/English-Read%20Now-blue)](./README.md) | [![Russian version](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D1%8C-brightgreen)](./README_RU.md)
+[![English version](https://img.shields.io/badge/English-Read%20Now-blue)](./README_ENG.md) | [![Russian version](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D1%8C-brightgreen)](./README.md)
 
 ## About Me
 
