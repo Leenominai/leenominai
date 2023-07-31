@@ -10,7 +10,7 @@ I see incredible opportunities for self-improvement and continuous learning in t
 
 ## Skills
 
-Python, Django, Docker, PostgreSQL, Postman, Git, GitHub Actions, Poetry, pre-commit
+Python, Django, Docker, PostgreSQL, Postman, Git, GitHub Actions, pre-commit
 
 ## Projects
 
