@@ -4,16 +4,18 @@
 
 ## About Me
 
-Hi there! I'm Aleksandr, an aspiring software developer with a keen interest in Python, Django, Docker, Postman, Git, and GitHub Actions. My journey as a developer has just begun, and I'm eager to learn and grow in the fields of Backend development and DevOps. I'm passionate about building elegant and efficient solutions.
+Hi there! I'm Aleksandr, an aspiring software developer with a keen interest in Python, Django, Docker, PostgreSQL and GitHub Actions. My journey as a developer has just begun, and I'm eager to learn and grow in the fields of Backend development and DevOps. I'm passionate about building elegant and efficient solutions.
 
 ## Skills
 
 - Python
 - Django
 - Docker
+- PostgreSQL
 - Postman
 - Git
 - GitHub Actions
+- pre-commit
 
 ## Projects
 
