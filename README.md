@@ -1,12 +1,12 @@
-## Профиль Разработчика
+# My Developer Profile
 
-[![Английская версия](./README.md)](./README.md) | [![Русская версия](./README_RU.md)](./README_RU.md)
+[![English version](./README_EN.md)](./README_EN.md) | [![Russian version](./README_RU.md)](./README_RU.md)
 
-## Обо мне
+## About Me
 
-Привет! Меня зовут [Ваше имя], и я увлеченный разработчик программного обеспечения с опытом работы в Python, Django, Docker, Postman, Git и GitHub Actions. Я люблю создавать веб-приложения и исследовать новые технологии.
+Hi there! I'm [Your Name], a passionate software developer with expertise in Python, Django, Docker, Postman, Git, and GitHub Actions. I love building web applications and exploring new technologies.
 
-## Навыки
+## Skills
 
 - Python
 - Django
@@ -15,11 +15,11 @@
 - Git
 - GitHub Actions
 
-## Проекты
+## Projects
 
-- [Проект 1](https://github.com/your-username/project1) - Краткое описание проекта.
-- [Проект 2](https://github.com/your-username/project2) - Краткое описание проекта.
+- [Project 1](https://github.com/your-username/project1) - Short project description.
+- [Project 2](https://github.com/your-username/project2) - Short project description.
 
-## Контакты
+## Contact
 
-Вы можете связаться со мной по электронной почте [your.email@example.com](mailto:your.email@example.com) или связаться со мной на [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
