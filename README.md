@@ -4,9 +4,9 @@
 
 ## About Me
 
-Hello! My name is Alexander. I'm an aspiring developer with a keen interest in Python, Django, Docker, PostgreSQL, and GitHub Actions. My journey into the world of development has just begun, and I strive to learn and grow in the fields of Backend development and DevOps. I enjoy creating elegant and efficient solutions.
+Hello! My name is Alexander, and I am a beginner developer with a strong passion for Python, Django, Docker and PostgreSQL. My journey into the world of development began at Yandex.Praktikum, where I successfully completed a Python developer program. Currently, I actively participate in collaborative pet projects, aiming to gain experience and grow in the field of Backend development and DevOps. I particularly enjoy crafting elegant and efficient solutions.
 
-I'm currently looking for job opportunities and open to new exciting projects!
+I see incredible opportunities for self-improvement and continuous learning in the IT industry. At the moment, I am actively seeking opportunities in Backend development and DevOps, where I can apply my knowledge and skills while continuing to evolve as a professional. If you have any exciting opportunities or questions, I would be thrilled to connect!
 
 ## Skills
 
