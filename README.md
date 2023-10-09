@@ -8,7 +8,7 @@
 
 ### Навыки
 
-Python, Django, DRF, Docker, PostgreSQL, NGINX, Postman, CI/CD (GitHub Actions), Git, pre-commit, celery
+Python, Django, DRF, Docker, PostgreSQL, Postman, CI/CD (GitHub Actions), Git, pre-commit, nginx, celery
 
 ### Образование 🎓
 
