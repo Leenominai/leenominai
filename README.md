@@ -26,4 +26,5 @@ Python, Django, DRF, Docker, PostgreSQL, SQLAlchemy, Postman, CI/CD (GitHub Acti
 ### Контакты
 
 Вы можете связаться со мной через Telegram: [@leenominai](https://t.me/leenominai) или связаться со мной на [LinkedIn](https://www.linkedin.com/in/leenominai).
+
 Мой профиль GitLub [@Leenominai](https://gitlab.com/Leenominai)
