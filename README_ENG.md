@@ -8,14 +8,11 @@ I see incredible opportunities for self-development and continuous learning in t
 
 ### Skills
 
-Python, Django, Docker, PostgreSQL, NGINX, Postman, CI/CD (GitHub Actions), Git, pre-commit
-
-### Education 🎓
-
-Yandex.Practicum - Python Developer (2023)
+Python, Django, DRF, Docker, PostgreSQL, SQLAlchemy, Postman, CI/CD (GitHub Actions), Git, Linux, asyncio, celery
 
 ### Projects
 
+- List of all projects with tools and documentation for them: [https://github.com/Leenominai?tab=repositories](https://github.com/Leenominai?tab=repositories)
 - [team-platform](https://github.com/Leenominai/team-platform2) - An application for team and project management, developed using Python, Django, and Docker. It includes features for creating and managing tasks, collaboration, and time management.
 - [filemanager](https://github.com/Leenominai/test_picasso) - An API for uploading, processing, and managing files of various formats, including .txt and .pdf for text files and images for images. The project is developed using Django, Django REST Framework, Celery and provides the capability to upload files and then process them asynchronously.
 - [foodgram](https://github.com/Leenominai/foodgram-project-react) - An online platform for publishing and sharing recipes. Users can create accounts, add recipes, bookmark favorite recipes, and create shopping lists for recipes.
